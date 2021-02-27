@@ -18,7 +18,7 @@ function App() {
   }
   return (
     <div className="App">
-      <h1>All countries : {countries.length}</h1>
+      <h1>All Countries : {countries.length}</h1>
       <Cart cart={cart}></Cart>
       <div className="allCountryDiv">
         {
