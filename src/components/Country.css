@@ -1,0 +1,17 @@
+.countryDiv {
+    border-radius: 0.5rem;
+    border: 2px solid #273c75;
+    padding: 0.8rem;
+    margin: 0.8rem 0;
+    background-image: radial-gradient(circle, #00ffff, #00e3ff, #00c5ff, #00a5f8, #0984e3);
+}
+.countryDiv img {
+    width: 100px;
+}
+.countryDiv button {
+    padding: 0.5rem 1rem;
+    border-radius: 0.4rem;
+    border: none;
+    color: #ffffff;
+    background-image: linear-gradient(to top right, #d16ba5, #0630eb);
+}
